@@ -9,3 +9,15 @@ C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\Entidades\obj\Debug\net
 C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\Entidades\obj\Debug\net8.0\refint\Entidades.dll
 C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\Entidades\obj\Debug\net8.0\Entidades.pdb
 C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\proyectos\asp.net\Github\multiDBcontext\Entidades\obj\Debug\net8.0\ref\Entidades.dll

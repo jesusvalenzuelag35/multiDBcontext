@@ -23,5 +23,7 @@ namespace Entidades
         public int? IdOwner { get; set; }
 
         public virtual Owner OwnerNavigation { get; set; }
+
+        public virtual ICollection<Employee> Employees { get; set; }
     }
 }

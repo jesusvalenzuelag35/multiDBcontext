@@ -49,6 +49,7 @@ namespace AccesoDatos.Contextos
                 entity.Property(e => e.Sueldo).HasColumnType("Decimal(6,2)");
 
                 entity.HasOne(e => e.OwnerNavigation).WithMany(entity => entity.Employees).HasForeignKey(e => e.OwnerId).HasConstraintName("FK_Employee_ID");
+                entity.HasOne(e => e.CompanyNavigation).WithMany(e => e.Employees).HasForeignKey(e => e.CompanyId).HasConstraintName("FK_Company_ID");
 
             });
         }

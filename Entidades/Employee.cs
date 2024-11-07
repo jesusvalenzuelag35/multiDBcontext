@@ -16,6 +16,8 @@ namespace Entidades
         public decimal Sueldo { get; set; }
         public int Edad { get; set; }
         public int OwnerId { get; set; }
+        public int CompanyId { get; set; }
         public virtual Owner OwnerNavigation { get; set; }
+        public virtual Company CompanyNavigation { get; set; }    
     }
 }

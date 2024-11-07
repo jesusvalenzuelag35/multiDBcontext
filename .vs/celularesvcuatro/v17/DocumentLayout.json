@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\proyectos\\asp.net\\Github\\multiDBcontext\\AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C1C1BB-8DEF-4FF0-AC0B-7B26AC4625FC}|AccesoDatos\\AccesoDatos.csproj|c:\\proyectos\\asp.net\\github\\multidbcontext\\accesodatos\\contextos\\talleresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C1C1BB-8DEF-4FF0-AC0B-7B26AC4625FC}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\contextos\\talleresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|c:\\proyectos\\asp.net\\github\\multidbcontext\\entidades\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|solutionrelative:entidades\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|c:\\proyectos\\asp.net\\github\\multidbcontext\\entidades\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|solutionrelative:entidades\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|c:\\proyectos\\asp.net\\github\\multidbcontext\\entidades\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CB8C2D-F531-4927-829E-BF32B84F2817}|Entidades\\Entidades.csproj|solutionrelative:entidades\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241107181845_terceraMigracion.cs",
+              "DocumentMoniker": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs",
+              "ToolTip": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\TalleresDB\\20241107181845_terceraMigracion.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:18:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TalleresDBContext.cs",
+              "DocumentMoniker": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\AccesoDatos\\Contextos\\TalleresDBContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Contextos\\TalleresDBContext.cs",
+              "ToolTip": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\AccesoDatos\\Contextos\\TalleresDBContext.cs",
+              "RelativeToolTip": "AccesoDatos\\Contextos\\TalleresDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:16:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Employee.cs",
+              "RelativeDocumentMoniker": "Entidades\\Employee.cs",
+              "ToolTip": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Employee.cs",
+              "RelativeToolTip": "Entidades\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:15:17.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Owner.cs",
+              "RelativeDocumentMoniker": "Entidades\\Owner.cs",
+              "ToolTip": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Owner.cs",
+              "RelativeToolTip": "Entidades\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:15:13.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Company.cs",
+              "RelativeDocumentMoniker": "Entidades\\Company.cs",
+              "ToolTip": "C:\\proyectos\\asp.net\\Github\\multiDBcontext\\Entidades\\Company.cs",
+              "RelativeToolTip": "Entidades\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:14:50.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
