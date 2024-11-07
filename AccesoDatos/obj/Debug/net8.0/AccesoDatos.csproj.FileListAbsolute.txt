@@ -1,0 +1,17 @@
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\daniel.valenzuela\source\repos\celularesvcuatro\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
